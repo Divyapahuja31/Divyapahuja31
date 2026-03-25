@@ -1,29 +1,183 @@
-# 💫 About Me:
-🔭 I’m currently working on: A game project using React.js to level up my skills and build an impressive portfolio.<br><br>👯 I’m looking to collaborate on: Fun and interactive web-based games or creative front-end projects.<br><br>🤝 I’m looking for help with: Optimizing game performance in React and learning advanced animations with libraries like Framer Motion.<br><br>🌱 I’m currently learning: Advanced React concepts, game mechanics in JavaScript, and UI/UX design for better player experience.<br><br>💬 Ask me about: JavaScript, React.js, and how to get started with game development in React.<br><br>⚡ Fun fact: I love finding creative ways to turn everyday problems into fun little games!
+<!-- 🎀 BANNER SPACE -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Divyapahuja31/Divyapahuja31@main/banner.png" alt="Divya Banner" width="100%" style="border-radius: 12px; border: none;" />
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── HEADER ─────────────────────────── -->
+
+<h1 align="center">
+  Hey, i'm <span style="color:#FF69B4;">Divya</span> 💗
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=480&lines=full+stack+developer+%F0%9F%92%BB;open+source+girlie+%F0%9F%8C%B8;building+cute+%26+scalable+apps;always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <em>turning coffee ☕ and creative chaos into fun, interactive web experiences ✨</em>
+</p>
+
+<br/>
+
+<!-- ─────────────────────────── ABOUT ─────────────────────────── -->
+
+<h2 align="center">🌸 A little about me</h2>
+
+<table align="center">
+  <tr>
+    <td>💻</td>
+    <td><b>Full Stack Developer</b> — crafting seamless web apps from frontend to backend</td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td><b>Open Source Contributor</b> — actively building & contributing (Hacktoberfest 🎃)</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><b>Currently Exploring</b> — system design, modern architectures & cloud tech</td>
+  </tr>
+  <tr>
+    <td>🎨</td>
+    <td><b>Design Enthusiast</b> — love making things look pretty <i>and</i> work smoothly</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────────── TECH STACK ─────────────────────────── -->
+
+<h2 align="center">🛠️ Tech stack & tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,cs,bash,react,bootstrap,tailwind,vite&perline=10" alt="Tech Stack Row 1" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,gcp,netlify,yarn,figma,wordpress,notion&perline=10" alt="Tech Stack Row 2" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+</div>
+
+<br/>
+
+<!-- ─────────────────── TOP PROJECTS ─────────────────── -->
+
+<h2 align="center">✨ Top projects</h2>
+
+<div align="center">
+
+| 🎀 Project Name | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+|:---:|:---|:---|:---:|
+| **[Craft My Prep](https://craft-my-prep.vercel.app/)** | _AI interview prep platform generating personalized learning plans with Gemini AI & Groq, featuring GitHub OAuth._ 🚀 | `Next.js` `React` `Tailwind` `Prisma` `PostgreSQL` | [![Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://craft-my-prep.vercel.app/) |
+| **[Campus Buddy](https://campus-buddy-v62r.vercel.app/)** | _Centralized campus portal for discovering, RSVP’ing, and managing student events via interactive club dashboards._ 🌟 | `React` `Vite` `Node.js` `Express` `Supabase` | [![Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://campus-buddy-v62r.vercel.app/) |
+
+</div>
+
+<br/>
+
+<!-- ─────────────────── FUN FACTS / PLAYFUL SECTION ─────────────────── -->
+
+<h2 align="center">💖 Fun facts</h2>
+
+<div align="center">
+
+```text
+🌙  night owl who codes best after midnight
+🎧  lo-fi beats = instant productivity boost
+🧋  coffee > tea (controversial, i know)
+🐱  firm believer that every project needs a cute name
+🌈  favorite error message: "it works on my machine"
+```
+
+</div>
+
+<br/>
+
+<!-- ─────────────────── WHAT I'M UP TO ─────────────────── -->
+
+<h2 align="center">🔮 What i'm up to</h2>
+
+<div align="center">
+
+| 🌱 learning | 🛠️ building | 🎯 goals |
+|:---:|:---:|:---:|
+| Advanced System Design | Scalable Web Apps | Contribute to 10+ OSS repos |
+| Cloud Architecture | Developer Tools | Land a dream internship |
+| UI/UX Patterns | Side Projects ✨ | Grow my dev community |
+
+</div>
+
+<br/>
+
+<!-- ─────────────────── BADGES & ACHIEVEMENTS ─────────────────── -->
+
+<h2 align="center">🎖️ badges & achievements</h2>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divya_pahuja25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-pahuja25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyapahuja31@gmail.com) 
+<div align="center">
+  <a href="https://holopin.io/@divyapahuja31">
+    <img src="https://holopin.me/divyapahuja31" alt="@divyapahuja31's Hacktoberfest Badges" width="90%" style="border-radius: 12px;" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=divyapahuja31&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=divyapahuja31&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyapahuja31&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ─────────────────────────── GITHUB STATS ─────────────────────────── -->
+
+<h2 align="center">📊 Github analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyapahuja31&theme=flamingo&hide_border=true&area=true&bg_color=FFF0F5&title_color=FF69B4&color=FF69B4&line=FF69B4&point=D63384" alt="Contribution Graph" width="99%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyapahuja31&hide_border=true&show_icons=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF69B4&text_color=D63384&ring_color=FF69B4" width="49%" height="175" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=divyapahuja31&hide_border=true&background=FFF0F5&ring=FF69B4&fire=D63384&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=D63384&currStreakNum=FF69B4&sideNums=FF69B4" width="49%" height="180" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote_color=FF69B4&author_color=D63384&bg_color=FFF0F5&border_color=FFB6C1" alt="Random Dev Quote" />
+</div>
+
+<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=divyapahuja31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ─────────────────────────── CONNECT ─────────────────────────── -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=divyapahuja31&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">💌 let's connect!</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=divyapahuja31&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://linkedin.com/in/divya-pahuja25">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/divya_pahuja25">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:divyapahuja31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<!-- ─────────────────────────── FOOTER ─────────────────────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" width="100%" />
+</div>
+
+
+
+<p align="center">
+  made with 💗 by divya
+</p>
